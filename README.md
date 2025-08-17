@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreeChetlapalli
 - 👀 I’m interested in Artificial Intelligence and Machine learning
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently learning TensorFlow
 
 
 <!---
